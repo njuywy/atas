@@ -1,9 +1,4 @@
-马老师：
-
-您好，这周讨论之后从三个维度继续实验。一方面在剩下的一些数据集上进行小规模的实验；一方面搜索关于对抗样本生成的论文，目前看到的结果异界baseline的方式可以用，大多数都是基于梯度的，不适合目前的学习器；还有一方面是进行lstm的编写，下次讨论这三个方面我都会给出初步结果。
-
-
-祝好
-
-程大卫
+#survey
+##The deployer’s problem: Configuring application servers for performance and reliability. (ICSE '03)
+###Outline the problems facing the deployer of applications, present a methodology that can assist the programmer with the task of configuring application servers, and present two case studies that validate the usefulness of our methodology. 
 
